@@ -8,4 +8,4 @@ On this project, I practiced on :
 
 ## Live Demo
 
-[View demo](https://patriciamasioni.github.io/Barbershop/)
+[View demo]( https://patriciamasioni.github.io/Interviewpage/)
